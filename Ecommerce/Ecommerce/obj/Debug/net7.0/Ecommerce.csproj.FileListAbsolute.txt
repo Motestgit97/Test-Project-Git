@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Git2-Cmder\Test-Project-Git\Ecommerce\Ecommerce\bin\Debug\net7.0\Ecommerce.exe
+C:\Users\HP\Desktop\Git2-Cmder\Test-Project-Git\Ecommerce\Ecommerce\bin\Debug\net7.0\Ecommerce.deps.json
+C:\Users\HP\Desktop\Git2-Cmder\Test-Project-Git\Ecommerce\Ecommerce\bin\Debug\net7.0\Ecommerce.runtimeconfig.json
+C:\Users\HP\Desktop\Git2-Cmder\Test-Project-Git\Ecommerce\Ecommerce\bin\Debug\net7.0\Ecommerce.dll
+C:\Users\HP\Desktop\Git2-Cmder\Test-Project-Git\Ecommerce\Ecommerce\bin\Debug\net7.0\Ecommerce.pdb
+C:\Users\HP\Desktop\Git2-Cmder\Test-Project-Git\Ecommerce\Ecommerce\obj\Debug\net7.0\Ecommerce.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Git2-Cmder\Test-Project-Git\Ecommerce\Ecommerce\obj\Debug\net7.0\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Git2-Cmder\Test-Project-Git\Ecommerce\Ecommerce\obj\Debug\net7.0\Ecommerce.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Git2-Cmder\Test-Project-Git\Ecommerce\Ecommerce\obj\Debug\net7.0\Ecommerce.AssemblyInfo.cs
+C:\Users\HP\Desktop\Git2-Cmder\Test-Project-Git\Ecommerce\Ecommerce\obj\Debug\net7.0\Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Git2-Cmder\Test-Project-Git\Ecommerce\Ecommerce\obj\Debug\net7.0\Ecommerce.dll
+C:\Users\HP\Desktop\Git2-Cmder\Test-Project-Git\Ecommerce\Ecommerce\obj\Debug\net7.0\refint\Ecommerce.dll
+C:\Users\HP\Desktop\Git2-Cmder\Test-Project-Git\Ecommerce\Ecommerce\obj\Debug\net7.0\Ecommerce.pdb
+C:\Users\HP\Desktop\Git2-Cmder\Test-Project-Git\Ecommerce\Ecommerce\obj\Debug\net7.0\Ecommerce.genruntimeconfig.cache
+C:\Users\HP\Desktop\Git2-Cmder\Test-Project-Git\Ecommerce\Ecommerce\obj\Debug\net7.0\ref\Ecommerce.dll
